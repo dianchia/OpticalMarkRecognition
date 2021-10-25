@@ -1,0 +1,8 @@
+.idea/
+venv/
+raw_data/
+output/
+jupyter/
+input/
+data/
+*.pyc
